@@ -61,6 +61,7 @@ This project uses the **OMDb API (Open Movie Database API)**.
 ## Project Structure
 
 movie-watchlist/
+|
 ├── index.html
 ├── style.css
 └── script.js
